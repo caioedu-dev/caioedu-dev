@@ -1,68 +1,123 @@
-# 👨‍💻   Caio Eduardo
+<div align="center">
 
-**Estudando para me tornar Engenheiro de Software e Especialista em Cibersegurança.**
+<!-- 🔴 MUDE AQUI SE QUISER: nome do usuário -->
+<img src="https://komarev.com/ghpvc/?username=caioedu-dev&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-Olá! Meu nome é Caio e sou estudante de programação, apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente estou estudando Python, Redes de Computadores e SQL, enquanto desenvolvo projetos para colocar meus conhecimentos em prática. Meu objetivo é evoluir constantemente como desenvolvedor e construir uma carreira nas áreas de Desenvolvimento Full Stack e Cybersegurança. Seja bem-vindo ao meu GitHub! 🚀
+<!-- 🔴 MUDE AQUI: se você criar seu próprio activity graph -->
+<a href="https://github.com/caioedu-dev/github-readme-activity-graph">
+</a>
 
-<p align="left">
-    </a>
-    <a href="https://github.com/caioedu-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/caioedu-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-          <a href="https://github.com/caioedu-dev?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/caioedu-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    </a>
-</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👤 About Me
 
-<img 
-    align="left" 
-    alt="Redes" 
-    title="Redes"
-    width="30px" 
-    style="padding-right: 10px;"  src="https://imgs.search.brave.com/AdkUL2F3uywRgL2XRkbTYlj_5BtFZS4WmGmbiB5K0ZI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9yZWRlLWRl/LWNvbXB1dGFkb3Jl/cy1pY29uLXN2Zy1k/b3dubG9hZC1wbmct/MTU4MTY2MC5wbmc_/Zj13ZWJwJnc9MTI4" 
-/>
-<img 
-    align="left" 
-    alt="Cyber Segurity" 
-    title="Cyber Segurity"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/40HAl6mYnf7ngVpnJRBj-3DNf6Bsh6ElKriL3vnYQoQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9jeWJlcnNl/Y3VyaXR5LWljb24t/c3ZnLWRvd25sb2Fk/LXBuZy0xMTMxNzA2/MS5wbmc_Zj13ZWJw/Jnc9MTI4" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Hi, I'm **Caio** 👋
 
-<br/>
-<br/>
+I'm a Brazilian developer 🇧🇷 and I'm currently learning programming, software development and cybersecurity.
 
-### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=caioedu-dev&show_icons=true&theme=dark)
+I'm focused on building a strong foundation in **Python, Linux, databases, web development and computer networks**.
 
+My goal is to become a **Full-Stack Software Engineer specialized in Cybersecurity**.
+
+I'm currently learning and practicing through personal projects, especially **Terry V1**, a Python-based productivity and organization system.
+
+### 🌱 Currently Learning
+
+- 🐍 Python & Object-Oriented Programming
+- 🐧 Linux
+- 🌐 HTML & CSS
+- 🗄️ MySQL & Database Design
+- 🌐 Computer Networks
+- 🔐 Cybersecurity
+- 🧠 Algorithms & Problem Solving
+- 🛠️ Git & GitHub
+
+---
+
+## 🏷️ Interests
+
+- 🔐 Cybersecurity
+- 🐧 Linux
+- 💻 Software Engineering
+- 🌐 Networks
+- 🗄️ Databases
+- 🧠 Algorithms
+- 🛠️ Building personal projects
+
+---
+
+## 🚀 Stack
+
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+## 🔧 Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+
+---
+
+## 📌 Featured Project
+
+### 🗂️ Terry V1
+
+A personal project focused on learning, productivity and software development.
+
+Built with Python, Terry is being developed as a practical project to improve my programming, problem-solving and software engineering skills.
+
+- 🐍 Python
+- 🧠 Object-Oriented Programming
+- 📁 File management
+- 🗄️ Data organization
+- 🔐 Security-focused features
+- 🛠️ Continuous development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caioedu-dev&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=caioedu-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caioedu-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👨‍💻 Learning. Building. Securing.
+
+**caioedu-dev**
+
+</div>
 
 

@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- 🔴 MUDE AQUI SE QUISER: nome do usuário -->
 <img src="https://komarev.com/ghpvc/?username=caioedu-dev&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<!-- 🔴 MUDE AQUI: se você criar seu próprio activity graph -->
-<a href="https://github.com/caioedu-dev/github-readme-activity-graph">
-</a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Caio+Eduardo+%F0%9F%91%8B;Come+and+get+to+know+me+%F0%9F%9A%80;My+goal%3A+Full-Stack+Software+Engineer+%F0%9F%92%BB;Specialized+in+Cybersecurity+%F0%9F%94%90" alt="Typing SVG"/>
 
 </div>
 
@@ -97,20 +96,23 @@ Built with Python, Terry is being developed as a practical project to improve my
 </div>
 
 ---
+---
 
-## 🐍 Contributions
+## 💻 My Passion: Programming
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/caioedu-dev/caioedu-dev/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%92%BB;Programming+is+my+passion+%F0%9F%94%A5;Turning+ideas+into+code+%F0%9F%A7%A0;Building+my+future+one+line+at+a+time+%F0%9F%9A%80;From+Python+to+Cybersecurity+%F0%9F%90%8D%F0%9F%94%90" alt="Programming animation"/>
 
-</div>
+<br>
 
----
+<p>
+  <b>Building today what I want to become tomorrow.</b>
+</p>
+
+<p>
+  One line of code at a time. 🚀
+</p>
 
 <div align="center">
 
